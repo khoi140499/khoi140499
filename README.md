@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dang Khoi</h1>
-<h3 align="center">A passionate .NETdeveloper from Vietnameses</h3>
+<h3 align="center">A passionate .NET developer from Vietnameses</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khoi140499&label=Profile%20views&color=0e75b6&style=flat" alt="khoi140499" /> </p>
 
