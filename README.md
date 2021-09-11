@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dang Khoi</h1>
-<h3 align="center">A passionate fullstack developer from Vietnameses</h3>
+<h3 align="center">A passionate .NETdeveloper from Vietnameses</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khoi140499&label=Profile%20views&color=0e75b6&style=flat" alt="khoi140499" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khoi140499" alt="khoi140499" /></a> </p>
 
-- 🌱 I’m currently learning **ASP.NET and Android(Java)**
+- 🌱 I’m currently learning **ASP.NET**
 
 - 👨‍💻 All of my projects are available at [https://github.com/khoi140499](https://github.com/khoi140499)
 
